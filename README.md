@@ -1,2 +1,2 @@
-# WhaterReact
-React simple whater app
+# WeaterReact
+React simple weater app
